@@ -78,3 +78,11 @@ This project can also be converted into an **Android/iOS app** using **Capacitor
 
 
 ---
+
+---
+
+## 📷 Screenshot of PDF Report that is generated
+
+<img width="1286" height="738" alt="Screenshot 2025-09-04 130641" src="https://github.com/user-attachments/assets/096ecc63-a744-4f88-a1e0-5ea0b3a49f96" />
+
+---
