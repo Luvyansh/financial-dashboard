@@ -1,6 +1,4 @@
-Got it 👍 Here’s a professional yet simple **README.md** tailored for your GitHub repository:
-
-# 📊 Financial Dashboard (Next.js Prototype)
+# Financial Dashboard (Next.js Prototype)
 
 This project is a **prototype** financial dashboard built with **Next.js 14 (App Router)**, **Tailwind CSS**, and **MUI X Charts**.  
 It was created as part of an assignment to recreate a blurred reference design and includes key features such as charts, stat cards, and PDF report generation.
