@@ -32,7 +32,7 @@ It was created as part of an assignment to recreate a blurred reference design a
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone financial-dashboard
    cd financial-dashboard
     ```
 
